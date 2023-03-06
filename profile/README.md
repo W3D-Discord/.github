@@ -1,4 +1,4 @@
-<img src="https://media.discordapp.net/attachments/1017209307625959495/1082375438938144868/Github_Banner.jpg?width=1440&height=562" />
+<img src="https://i.imgur.com/HRBAvLz.jpg" />
 <div align="center">
 
 | **❗️ Important**: This project was an initiative to contribute to the community, therefore, it has no direct connection with the [web3dev](https://www.web3dev.com.br/). |
