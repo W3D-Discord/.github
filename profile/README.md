@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/HRBAvLz.jpg" />
+<img src="https://i.imgur.com/6iEc7Uj.jpeg" />
 <div align="center">
 
 | **❗️ Important**: This project was an initiative to contribute to the community, therefore, it has no direct connection with the [web3dev](https://www.web3dev.com.br/). |
